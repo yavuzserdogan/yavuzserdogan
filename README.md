@@ -1,10 +1,10 @@
 ![MasterHead](https://res.cloudinary.com/zenbusiness/image/upload/v1670445040/logaster/logaster-2020-08-new-android-logo-evolution-1.gif)
 <h1 align="center">Hi 👋, I'm Yavuz</h1>
-<h3 align="center">A Android Developer from Izmir/Turkey.</h3>
+<h3 align="center">A Mobile Developer from Izmir/Turkey.</h3>
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **Mobile**
 
 - 📫 How to reach me **yavuz.selimm.erdogan@gmail.com**
 
